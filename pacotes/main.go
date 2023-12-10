@@ -10,7 +10,7 @@ import (
 func main() {
 	fmt.Println("Escrevendo do arquivo main")
 	auxiliar.Escrever()
-	erro := checkmail.ValidateFormat("mlibanioail.com")
+	erro := checkmail.ValidateFormat("mlibanio97@gmail.com")
 	fmt.Println(erro)
 
 }
